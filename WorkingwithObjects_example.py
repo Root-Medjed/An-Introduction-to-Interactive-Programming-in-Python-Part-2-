@@ -1,4 +1,5 @@
 # Particle class **example** used to simulate diffusion of molecules
+#NOTE: Call class methods via: object_name.method(...)
 
 
 import simplegui
